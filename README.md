@@ -10,7 +10,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account" alt="Typing SVG" /></h1>
 
 <h2 align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/274272808601911296?theme=dark&hideDiscrim=true&hideBadges=false&bg=000000&borderRadius=30px&idleMessage=İletişim%20İçin%20Tıkla" align="center" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/274272808601911296?theme=dark&hideDiscrim=true&hideBadges=false&bg=000000&borderRadius=30px&idleMessage=Click%20to%20support" align="center" />
  </h2>
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=f0f0f0&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Github+Stat+" alt="Typing SVG" /></h1>
